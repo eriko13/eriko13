@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik German</h1>
-<h3 align="center">A passionate full-stack developer from the US</h3>
+<h3 align="center">Senior Software Engineer and Flutter enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eriko13" alt="eriko13" /></a> </p>
 
