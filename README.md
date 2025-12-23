@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  ![How I Build Software Image](./how-I-build-software.png)
+  ![How I Build Software Image](/how-I-build-software.png)
 </div>
 
 ###
